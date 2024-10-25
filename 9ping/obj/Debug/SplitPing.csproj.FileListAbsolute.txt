@@ -1,0 +1,10 @@
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\bin\Debug\SplitPing.exe.config
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\bin\Debug\SplitPing.exe
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\bin\Debug\SplitPing.pdb
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\obj\Debug\SplitPing.csprojResolveAssemblyReference.cache
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\obj\Debug\SplitPing.Properties.Resources.resources
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\obj\Debug\SplitPing.csproj.GenerateResource.Cache
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\obj\Debug\SplitPing.exe
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\obj\Debug\SplitPing.pdb
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\obj\Debug\SplitPing.FormMain.resources
+c:\users\sharonsa\documents\visual studio 2013\Projects\SplitPing\SplitPing\obj\Debug\SplitPing.FormOptions.resources
